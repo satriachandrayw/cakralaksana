@@ -1,0 +1,14 @@
+{
+    "name": "cakralaksana/cakralaksana",
+    "description": "Sistem Informasi Klinik Rumah Sakit",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Satria Chandra",
+            "email": "satriachandrayw@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    }
+}
